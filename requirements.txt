@@ -1,4 +1,2 @@
 streamlit==1.24.0
 numpy>=1.25.0
-scikit-fuzzy==0.4.2
-setuptools>=65.0.0
